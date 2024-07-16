@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently exploring **Cloud Native Tools**
 
-- 💬 Ask me about **Java, SpringBoot, Golang, Postgress, Linux**
+- 💬 Ask me about **Java, SpringBoot, Golang, Postgress, Linux, Java for Cloud Native**
 
 - 📫 How to reach me **harshparmr4902@gmail.com**
 
