@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, SpringBoot, Golang, Postgress, Linux, Java for Cloud Native, Microcks**
 
-- 📫 How to reach me **harshparmr4902@gmail.com**
+- 📫 How to reach me **harshparmar4902@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
