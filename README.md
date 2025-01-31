@@ -26,7 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harsh4902&show_icons=true&locale=en" alt="harsh4902" /></p>
 
-<p><img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh4902"></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh4902&" alt="harsh4902" /></p>
 
